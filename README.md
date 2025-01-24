@@ -1,6 +1,10 @@
 # redcap-html-bootstrap
 A simple repo for distributing Bootstrap-based HTML templates for use within REDCap
 
+> **NOTE:** This is very much a work-in-progress! The inital goal is to get a version of the full conference dashboard HTML out here, which you can find at the link below!
+> 
+> [Conference Dashboard HTML](/dashboards/conference_full.html)
+
 ## Intro
 
 Building a nice looking project dashboard in REDCap can be a lot easier than you might think.  Once you understand the basic concepts of Bootstrap, and a little bit of HTML, you can create beautifully looking experiences for your users!
@@ -21,11 +25,24 @@ So whenever you're trying to customize some HTML, keep these documentation sites
 
 ## Layout Design
 
-TBD
+Building the layout comes down to two primary methods, both heavily documented in the Bootstrap website:
+
+- Grid Layout
+- Flex
+
+I won't be able to do this section justice in just a few sentences/paragraphs.  It would be best to read through the docs, do your best to understand it if only just a little bit, and just try them out, play with them in a test project or non-public dashboard.
+
+What I can say with certainty, is that both options are very useful, and often, I find myself combining the two to fine-tune some more tricky layouts that I'm trying to achieve.
 
 ## Components
 
 I won't need to provide a lot of HTML here on a per-component basis; however, I will mention the most commonly used components I use in REDCap, a link to their documentation, and any helpful information that you may want/need.
+
+- Cards
+- Alerts
+- Buttons
+- Modal
+- Popover/Tooltip
 
 ### Card
 https://getbootstrap.com/docs/5.3/components/card/

@@ -23,6 +23,10 @@ The following resources are already included in REDCap, so they're immediately a
 
 So whenever you're trying to customize some HTML, keep these documentation sites readily available.  I almost always have one or both of these sites open while I build things, either looking for ideas, or grabbing html templates to try something out.
 
+## Pre-Requisites
+
+Having background/experience in HTML is definitely a plus, but I've watched people succeed with no experience at all! Just jump in ready to learn, and take it one step at a time.
+
 ## Layout Design
 
 Building the layout comes down to two primary methods, both heavily documented in the Bootstrap website:
@@ -34,6 +38,10 @@ I won't be able to do this section justice in just a few sentences/paragraphs.  
 
 What I can say with certainty, is that both options are very useful, and often, I find myself combining the two to fine-tune some more tricky layouts that I'm trying to achieve.
 
+## Theming / Colors
+
+TBD
+
 ## Components
 
 I won't need to provide a lot of HTML here on a per-component basis; however, I will mention the most commonly used components I use in REDCap, a link to their documentation, and any helpful information that you may want/need.
@@ -43,6 +51,7 @@ I won't need to provide a lot of HTML here on a per-component basis; however, I 
 - Buttons
 - Modal
 - Popover/Tooltip
+- Collapse/Accordian
 
 ### Card
 https://getbootstrap.com/docs/5.3/components/card/
